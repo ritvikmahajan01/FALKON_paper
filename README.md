@@ -1,5 +1,15 @@
 # FALKON_paper
 
+## Source Code
+
+The source code is cloned from the [FALKON original repository](https://github.com/LCSL/FALKON_paper).
+
+### Additions
+
+- A script to set up the required path variables.
+- A simple test for function estimation using a 1D function: \( f(x) = y \), where both \( x \) and \( y \) are scalars.
+
+
 > **_:grey_exclamation:NOTE:grey_exclamation::_**
 > A new and improved version of the Falkon algorithm is now available at (https://github.com/FalkonML/falkon):
 >
